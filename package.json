@@ -2,7 +2,7 @@
   "name": "testcafe-reporter-failsafe",
   "version": "1.0.0",
   "description": "Failsafe TestCafe reporter plugin. This plugin can be used within a Maven project which performs integration tests with the apache failsafe plugin.",
-  "repository": "https://github.com/DevExpress/testcafe-reporter-xunit",
+  "repository": "https://github.com/Sqooba/testcafe-reporter-failsafe",
   "author": {
     "name": "Sqooba",
     "url": "sqooba.io"
