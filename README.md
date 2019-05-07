@@ -34,4 +34,5 @@ testCafe
 ## Author
 Sqooba IO (https://sqooba.io)
 
-Base on [testcafe-reporter-xunit](https://github.com/DevExpress/testcafe-reporter-xunit).
+Based on [testcafe-reporter-xunit](https://github.com/DevExpress/testcafe-reporter-xunit).
+
