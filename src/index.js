@@ -20,6 +20,7 @@ export default function () {
             this.write(`<completed>${passed}</completed>`);
             this.write(`<errors>${this.failed}</errors>`);
             this.write('<skipped>0</skipped>');
+            this.write('<failures>0</failures>');
 
             this.write('<failureMessage/>');
             this.write('</failsafe-summary>\n');
